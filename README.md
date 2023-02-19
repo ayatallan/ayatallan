@@ -41,11 +41,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<br />
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/ayatallan/count.svg"></img>
-</div>
+
 
 <br /><br />
 <h2 align="center">Let's Connect 😎</h2>
