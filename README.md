@@ -3,7 +3,7 @@
 </h1>
 
 	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "<a href="https://www.freepik.com/free-vector/female-programmer-doing-her-job-office_5483063.htm#from_view=detail_alsolike">Image by freepik</a>" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
