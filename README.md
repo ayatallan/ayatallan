@@ -5,8 +5,6 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-
-<picture> <img align="right" src="https://www.freepik.com/free-vector/female-programmer-doing-her-job-office_5483063.htm#from_view=detail_alsolike" width = 250px></picture>
 <a href="https://www.freepik.com/free-vector/female-programmer-doing-her-job-office_5483063.htm#from_view=detail_alsolike">Image by freepik</a>
 <br><br>
 
